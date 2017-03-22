@@ -8,7 +8,7 @@ Opened By <a href="https://telegram.me/bom_bang_team">Ehsan</a>
 <pre>
 __________________________________________________________________________________
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-<span>git clone https://github.com/telebombang2018/telebombang_inline.git</span>
+<span>git clone https://github.com/telebombang2018/bombang_inline.git</span>
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
  بعد از زدن کد بالا به پوشه بات و  وارد فایل بات لوا شوید و در خط 1/2/9 به جای یوزرنیم یوزر خودتان را قرار دهید
