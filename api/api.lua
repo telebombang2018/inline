@@ -189,7 +189,7 @@ local hash = SUDO..'settings:'..chat..':'..value
 						local chat = ('-'..q.data:match('(%d+)') or '')
 						if is_mod(chat,q.from.id) then
              if q.data:match('_') and not (q.data:match('next_page') or q.data:match('left_page')) then
-                Canswer(q.id,">برای مشاهده راهنمای بیشتر این بخش عبارت\n/help\nرا ارسال کنید\n>تیم پشتیبانی:[@BanG_Pv_Bot]\n>کانال پشتیبانی:[@BanG_TeaM]\n> فروش :[@Bibak_BG]",true)
+                Canswer(q.id,">برای مشاهده راهنمای بیشتر این بخش عبارت\n/help\nرا ارسال کنید\n>تیم پشتیبانی:[@bom_bang_team]\n>کانال پشتیبانی:[@bom_bang_team]\n> فروش :[@sudo_monsters]",true)
 					elseif q.data:match('lock') then
 							local lock = q.data:match('lock (.*)')
 							TIME_MAX = (redis:get(SUDO..'floodtime'..chat) or 3)
