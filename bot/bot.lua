@@ -1,5 +1,5 @@
-bot = dofile('/home/inline/inline/data/utils.lua')
-json = dofile('/home/inline/inline/data/JSON.lua')
+bot = dofile('/home/یوزر سرور/inline/data/utils.lua')
+json = dofile('/home/یوزر سرور/inline/data/JSON.lua')
 URL = require "socket.url"
 serpent = require("serpent")
 http = require "socket.http"
@@ -8,7 +8,7 @@ redis = require('redis')
 db = redis.connect('127.0.0.1', 6379)
 BASE = '/home/inline/inline/bot/'
 SUDO = 310083510 --sudo id
-sudo_users = {310083510,123456789,Userid}
+sudo_users = {310083510,Userid}
 BOTS = 00000000 --bot id
 bot_id = db:get(SUDO..'bot_id')
 function vardump(value)
