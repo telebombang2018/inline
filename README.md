@@ -64,5 +64,28 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 کانال ما
 @bom_bang_team
+لیست پکیج ها برای حل بعضی ارور ها 
+برای رفع ارور پکیج زیر را در ترمینال بزنید
+sudo apt-get update 
+ 
+sudo apt-get upgrade 
+ 
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev tmux subversion
+
+ sudo luarocks install luasocket 
+ sudo luarocks install luasec 
+ sudo luarocks install redis-lua 
+ sudo luarocks install lua-term 
+ sudo luarocks install serpent 
+ sudo luarocks install dkjson 
+ sudo luarocks install lanes 
+ sudo luarocks install Lua-cURL 
+sudo luarocks install luaxmlrpc 
+
+sudo apt-get install libstdc++6 
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test  
+sudo apt-get update 
+sudo apt-get upgrade 
+sudo apt-get dist-upgrade 
 
 ****************************************************************************************************************************************
