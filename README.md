@@ -1,9 +1,6 @@
 ﻿# سورس اینلاین TELE BOM BANG
 Opened By <a href="https://telegram.me/bom_bang_team">Ehsan</a>
 
-
-# اموزش نصب ربات اینلاین شیشه ای
-
 <h1><p align="center"><stronge>ستاره یادت نره حمایت کنی اون بالا یه کیک کن ستاره بده</stronge>
 <h3><p align="center">Opened By <a href="https://telegram.me/sudo_monsters"> `EHSAN` </a>
 
